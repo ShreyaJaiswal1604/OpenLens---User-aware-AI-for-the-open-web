@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+.output/
+dist/
+
+# WXT generated
+.wxt/
+
+# Python
+MCP/venv/
+__pycache__/
+*.pyc
+
+# Environment & secrets
+.env
+.env.*
+*.local
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Hackathon brief (not part of source)
+*.pdf
+
+# Zip output
+*.zip

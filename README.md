@@ -23,6 +23,8 @@ OpenLens is a Chrome/Firefox browser extension that monitors AI activity in real
 ---
 
 ## Architecture — Four Layers
+<img width="8192" height="3281" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/f5038742-1608-4bfb-ac2a-6c0e09f884b1" />
+
 
 ```
 +---------------------------------------------------------------+

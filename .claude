@@ -1,17 +1,5 @@
 {
   "permissions": {
-    "allow": [
-      "Bash(node --version:*)",
-      "Bash(npm:*)",
-      "Bash(npx wxt prepare:*)",
-      "Bash(curl:*)",
-      "Bash(python3:*)",
-      "Bash(grep:*)",
-      "Bash(source:*)",
-      "Bash(pip install:*)",
-      "Bash(brew list:*)",
-      "Bash(/opt/homebrew/bin/python3.11:*)",
-      "Bash(python:*)"
-    ]
+    "allow": []
   }
 }
